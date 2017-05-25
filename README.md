@@ -1,3 +1,4 @@
 # 20160513_autenticacao
 
-![Screenshot](Diagramas de sequencia - Cópia.JPG)
+![Screenshot](https://raw.githubusercontent.com/rffantunes/20160513_autenticacao/blob/master/Diagramas%20de%20sequencia%20-%20Cópia.JPG)
+(Diagramas de sequencia - Cópia.JPG)
